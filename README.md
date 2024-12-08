@@ -1,4 +1,4 @@
-# Based Smiles: Immutable USDC Rewards for Genuine Smiles 😊
+# Bright Smiles: Immutable USDC Rewards for Genuine Smiles 😊
 
 An innovative Web3 application that uses Openputer AI Oracle (inspired by AgentKit and built on Coinbase Development Platform) to analyze your smile and rewards genuine happiness with USDC cryptocurrency. 
 
